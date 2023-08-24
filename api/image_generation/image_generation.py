@@ -9,7 +9,7 @@ class ImageGeneration:
     
     def generate_image(self, input_text: str):
         response = openai.Image.create(
-        prompt="a white siamese cat",
+        prompt=input_text,
         n=1,
         size="1024x1024"
         )
