@@ -7,7 +7,7 @@ api.egg-info/dependency_links.txt
 api.egg-info/top_level.txt
 api/classification/__init__.py
 api/paraphsing/__init__.py
-api/text-generation/__init__.py
-api/text-generation/text_generation.py
+api/text_generation/__init__.py
+api/text_generation/text_generation.py
 api/utils/__init__.py
 api/utils/common.py

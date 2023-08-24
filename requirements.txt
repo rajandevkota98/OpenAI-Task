@@ -2,4 +2,8 @@ openai
 scikit-learn
 pandas
 pyyaml
+fastapi
+uvicorn
+python-multipart
+starlette
 -e .
