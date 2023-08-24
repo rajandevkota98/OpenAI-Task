@@ -34,5 +34,33 @@ python app.py
 ``
 
 # Snapshot of the project
-Home Page:
+#### Home Page:
 ![HOME_PAGE](https://github.com/rajandevkota98/OpenAI-Task/blob/main/images/Screenshot%20from%202023-08-24%2017-18-11.png)
+
+
+#### Text Generation
+
+![Text_Generation](https://github.com/rajandevkota98/OpenAI-Task/blob/main/images/Screenshot%20from%202023-08-24%2017-19-48.png)
+
+#### Summary Generation
+
+![Summary_Generation](https://github.com/rajandevkota98/OpenAI-Task/blob/main/images/Screenshot%20from%202023-08-24%2017-21-14.png)
+
+
+#### Paraphasing
+![Paraphasing](https://github.com/rajandevkota98/OpenAI-Task/blob/main/images/Screenshot%20from%202023-08-24%2017-23-47.png)
+
+
+#### Image Generation:
+##### - URL Side
+  ![Image](https://github.com/rajandevkota98/OpenAI-Task/blob/main/images/Screenshot%20from%202023-08-24%2017-24-46.png)
+
+##### - Generated Image
+  ![Image_generated](https://github.com/rajandevkota98/OpenAI-Task/blob/main/images/Screenshot%20from%202023-08-24%2017-29-49.png)
+
+
+#### Question Answer System
+![image_](https://github.com/rajandevkota98/OpenAI-Task/blob/main/images/Screenshot%20from%202023-08-24%2017-31-14.png)
+  
+
+
