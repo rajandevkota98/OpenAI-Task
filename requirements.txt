@@ -1,3 +1,5 @@
 openai
 scikit-learn
 pandas
+pyyaml
+-e .

@@ -1,5 +1,4 @@
 from setuptools import find_packages, setup
-from typing import List
 
 
 def get_requirements():
@@ -14,7 +13,7 @@ def get_requirements():
 
 
 setup(
-    name='open-ai',
+    name='api',
     version='1.0.0',
     description='This is openai task',
     author='Rajan Devkota',
